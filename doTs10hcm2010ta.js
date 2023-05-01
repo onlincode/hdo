@@ -9,4 +9,7 @@ function doTest(){let e=document.querySelectorAll("p");e.forEach(e=>{if(/^\d+\./
         <label for="${n+"B"}">(B)`),e.innerHTML=e.innerHTML.replace("(C)",`<input type="radio" name ="${n}" value="C" id="${n+"C"}">
         <label for="${n+"C"}">(C)`),e.innerHTML=e.innerHTML.replace("(D)",`<input type="radio" name ="${n}" value="D" id="${n+"D"}">
         <label for="${n+"D"}">(D)`),e.innerHTML=e.innerHTML.replaceAll("</span>","</span></label>"))}})}
+const e = document.getElementById("doTest");
+e.addEventListener("click", doTest);
+ 
  
