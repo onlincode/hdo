@@ -1,13 +1,11 @@
-function doTest(){let e=document.querySelectorAll("p");e.forEach(e=>{if(/^\d+\./.test(e.innerText)){let n=e.innerText.match(/\d+/)[0],t=e.nextElementSibling,r=/…+/;if(/^\d+(\s)*(?=.*\bA\.(\s)*)(?=.*\bB\.(\s)*)(?=.*\bC\.(\s)*)(?=.*\bD\.(\s)*).*$/.test(e.innerText)){let l=e.innerText.trim().replace("A.","}~").replace("B.","}~").replace("C.","}~").replace("D.","}~").split(/(\s)*}~(\s)*/).filter(e=>e&&e?.length&&!!/\S/.test(e));for(i=0,e.innerHTML=n+".<br>";i<4;i++){let a=String.fromCharCode(i+65);e.innerHTML+=`
-        <input type="radio" name ="${n}" value="${a}" id="${n+a}">
-        <label for="${n+a}">${a+". "+l[i+1]}</label><br>
-        `}}else if(/^(?=.*\bA\.(\s)*)(?=.*\bB\.(\s)*)(?=.*\bC\.(\s)*)(?=.*\bD\.(\s)*).*$/.test(t.innerText.replaceAll("\n"," "))){let s=t.innerText.trim().replace("A.","}~").replace("B.","}~").replace("C.","}~").replace("D.","}~").split(/(\s)*}~(\s)*/).filter(e=>e&&e?.length&&!!/\S/.test(e));for(i=0,t.innerHTML="";i<4;i++){let p=String.fromCharCode(i+65);t.innerHTML+=`
-        <input type="radio" name ="${n}" value="${p}" id="${n+p}">
-        <label for="${n+p}">${p+". "+s[i]}</label><br>
-        `}}else r.test(e.innerText)?e.innerHTML=e.innerHTML.replace(/…+\.?\.?/,`<input type = "text" id="A${n}" style="border:0;outline:0; border-bottom: 1px dotted;background: #f4f4f4;" autocomplete="off" oninput="this.size = Math.max(this.value.length,20)"/>`):r.test(t.innerText)?t.innerHTML=t.innerHTML.replace(/…+\.?\.?/,`<input type = "text" id="A${n}" style="border:0;outline:0; border-bottom: 1px dotted;background: background: #f4f4f4;" oninput="this.size = Math.max(this.value.length,20)" autocomplete="off"/>`):/^\d+(\s)*(?=.*\bA\)(\s)*)(?=.*\bB\)(\s)*)(?=.*\bC\)(\s)*)(?=.*\bD\)(\s)*).*$/.test(e.innerText)&&(e.innerHTML=e.innerHTML.replace("(A)",`<input type="radio" name ="${n}" value="A" id="${n+"A"}">
-        <label for="${n+"A"}">(A)`),e.innerHTML=e.innerHTML.replace("(B)",`<input type="radio" name ="${n}" value="B" id="${n+"B"}">
-        <label for="${n+"B"}">(B)`),e.innerHTML=e.innerHTML.replace("(C)",`<input type="radio" name ="${n}" value="C" id="${n+"C"}">
-        <label for="${n+"C"}">(C)`),e.innerHTML=e.innerHTML.replace("(D)",`<input type="radio" name ="${n}" value="D" id="${n+"D"}">
-        <label for="${n+"D"}">(D)`),e.innerHTML=e.innerHTML.replaceAll("</span>","</span></label>"))}})}
-const e = document.getElementById("doTest");
-e.addEventListener("click", doTest);
+function doTest(){let e=document.querySelectorAll("p");e.forEach(e=>{if(/^\d+\./.test(e.innerText)){let t=e.innerText.match(/\d+/)[0],n=e.nextElementSibling,r=/…+/;if(/^\d+(\s)*(?=.*\bA\.(\s)*)(?=.*\bB\.(\s)*)(?=.*\bC\.(\s)*)(?=.*\bD\.(\s)*).*$/.test(e.innerText)){let l=e.innerText.trim().replace("A.","}~").replace("B.","}~").replace("C.","}~").replace("D.","}~").split(/(\s)*}~(\s)*/).filter(e=>e&&e?.length&&!!/\S/.test(e));for(i=0,e.innerHTML=t+".<br>";i<4;i++){let a=String.fromCharCode(i+65);e.innerHTML+=`
+        <input type="radio" name ="${t}" value="${a}" id="${t+a}">
+        <label for="${t+a}">${a+". "+l[i+1]}</label><br>
+        `}}else if(/^(?=.*\bA\.(\s)*)(?=.*\bB\.(\s)*)(?=.*\bC\.(\s)*)(?=.*\bD\.(\s)*).*$/.test(n.innerText.replaceAll("\n"," "))){let o=n.innerText.trim().replace("A.","}~").replace("B.","}~").replace("C.","}~").replace("D.","}~").split(/(\s)*}~(\s)*/).filter(e=>e&&e?.length&&!!/\S/.test(e));for(i=0,n.innerHTML="";i<4;i++){let s=String.fromCharCode(i+65);n.innerHTML+=`
+        <input type="radio" name ="${t}" value="${s}" id="${t+s}">
+        <label for="${t+s}">${s+". "+o[i]}</label><br>
+        `}}else r.test(e.innerText)?e.innerHTML=e.innerHTML.replace(/…+\.?\.?/,`<input type = "text" id="A${t}" style="border:0;outline:0; border-bottom: 1px dotted;background: #f4f4f4;" oninput="this.size = Math.max(this.value.length,20)" autocomplete="off"/>`):r.test(n.innerText)?n.innerHTML=n.innerHTML.replace(/…+\.?\.?/,`<input type = "text" id="A${t}" style="border:0;outline:0; border-bottom: 1px dotted;background: background: #f4f4f4;" oninput="this.size = Math.max(this.value.length,20)" autocomplete="off"/>`):/^\d+(\s)*(?=.*\bA\)(\s)*)(?=.*\bB\)(\s)*)(?=.*\bC\)(\s)*)(?=.*\bD\)(\s)*).*$/.test(e.innerText)&&(e.innerHTML=e.innerHTML.replace("(A)",`<input type="radio" name ="${t}" value="A" id="${t+"A"}">
+        <label for="${t+"A"}">(A)`),e.innerHTML=e.innerHTML.replace("(B)",`<input type="radio" name ="${t}" value="B" id="${t+"B"}">
+        <label for="${t+"B"}">(B)`),e.innerHTML=e.innerHTML.replace("(C)",`<input type="radio" name ="${t}" value="C" id="${t+"C"}">
+        <label for="${t+"C"}">(C)`),e.innerHTML=e.innerHTML.replace("(D)",`<input type="radio" name ="${t}" value="D" id="${t+"D"}">
+        <label for="${t+"D"}">(D)`),e.innerHTML=e.innerHTML.replaceAll("</span>","</span></label>"))}document.getElementById("doTest").addEventListener("click",doTest)})}const element=document.getElementById("doTest");element.addEventListener("click",doTest);
