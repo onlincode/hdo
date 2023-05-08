@@ -9,5 +9,5 @@ function doTest(){let e=document.querySelectorAll("p");e.forEach(e=>{if(/^\d+\./
         <label for="${n+"B"}">(B)`),e.innerHTML=e.innerHTML.replace("(C)",`<input type="radio" name ="${n}" value="C" id="${n+"C"}">
         <label for="${n+"C"}">(C)`),e.innerHTML=e.innerHTML.replace("(D)",`<input type="radio" name ="${n}" value="D" id="${n+"D"}">
         <label for="${n+"D"}">(D)`),e.innerHTML=e.innerHTML.replaceAll("</span>","</span></label>"))}})}
-
+function guiDapAn(){let e={};for(i=1;i<=41;i++)try{document.getElementById(i+"A").checked?e["cau"+i]="A":document.getElementById(i+"B").checked?e["cau"+i]="B":document.getElementById(i+"C").checked?e["cau"+i]="C":document.getElementById(i+"D").checked&&(e["cau"+i]="D")}catch(t){e["cau"+i]=document.getElementById("A"+i)?.value}fetch("https://localhost:3003/api/data",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(e)}).then(e=>e.json()).then(e=>console.log(e)).catch(e=>console.error(e))}
 if (location.href.includes("huongdan.online")) document.getElementById("doTest").addEventListener("click",doTest);
