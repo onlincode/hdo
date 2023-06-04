@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://huongdan.online/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://huongdan.online/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>http://huongdan.online/post-sitemap.xml</loc>
+		<loc>https://huongdan.online/post-sitemap.xml</loc>
 		<lastmod>2023-06-02T15:32:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://huongdan.online/page-sitemap.xml</loc>
+		<loc>https://huongdan.online/page-sitemap.xml</loc>
 		<lastmod>2023-05-07T08:20:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://huongdan.online/product-sitemap.xml</loc>
+		<loc>https://huongdan.online/product-sitemap.xml</loc>
 		<lastmod>2023-05-08T17:11:06+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://huongdan.online/category-sitemap.xml</loc>
+		<loc>https://huongdan.online/category-sitemap.xml</loc>
 		<lastmod>2023-06-02T15:32:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://huongdan.online/post_tag-sitemap.xml</loc>
+		<loc>https://huongdan.online/post_tag-sitemap.xml</loc>
 		<lastmod>2023-06-02T15:32:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://huongdan.online/product_cat-sitemap.xml</loc>
+		<loc>https://huongdan.online/product_cat-sitemap.xml</loc>
 		<lastmod>2023-05-08T17:11:06+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

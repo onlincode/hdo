@@ -1,64 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://huongdan.online/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://huongdan.online/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://huongdan.online/</loc>
+		<loc>https://huongdan.online/</loc>
 	</url>
 	<url>
-		<loc>http://huongdan.online/shop/</loc>
+		<loc>https://huongdan.online/shop/</loc>
 		<lastmod>2023-05-04T08:27:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://huongdan.online/cart/</loc>
+		<loc>https://huongdan.online/cart/</loc>
 		<lastmod>2023-05-04T08:27:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://huongdan.online/checkout/</loc>
+		<loc>https://huongdan.online/checkout/</loc>
 		<lastmod>2023-05-04T08:27:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://huongdan.online/my-account/</loc>
+		<loc>https://huongdan.online/my-account/</loc>
 		<lastmod>2023-05-04T08:27:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://huongdan.online/homepage/</loc>
+		<loc>https://huongdan.online/homepage/</loc>
 		<lastmod>2023-05-04T09:12:34+00:00</lastmod>
 		<image:image>
-			<image:loc>http://huongdan.online/wp-content/uploads/2023/05/other-small.jpg</image:loc>
+			<image:loc>https://huongdan.online/wp-content/uploads/2023/05/other-small.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://huongdan.online/wp-content/uploads/2023/05/other-small.jpg</image:loc>
+			<image:loc>https://huongdan.online/wp-content/uploads/2023/05/other-small.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://huongdan.online/wp-content/uploads/2023/05/other-small.jpg</image:loc>
+			<image:loc>https://huongdan.online/wp-content/uploads/2023/05/other-small.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://huongdan.online/trang-chu/</loc>
+		<loc>https://huongdan.online/trang-chu/</loc>
 		<lastmod>2023-05-04T09:25:08+00:00</lastmod>
 		<image:image>
-			<image:loc>http://huongdan.online/wp-content/themes/neve/assets/img/starter-content/hero.jpg</image:loc>
+			<image:loc>https://huongdan.online/wp-content/themes/neve/assets/img/starter-content/hero.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-03.svg</image:loc>
+			<image:loc>https://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-03.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-02.svg</image:loc>
+			<image:loc>https://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-02.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-01.svg</image:loc>
+			<image:loc>https://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-01.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://huongdan.online/contact/</loc>
+		<loc>https://huongdan.online/contact/</loc>
 		<lastmod>2023-05-07T08:20:42+00:00</lastmod>
 		<image:image>
-			<image:loc>http://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-05.svg</image:loc>
+			<image:loc>https://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-05.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-06.svg</image:loc>
+			<image:loc>https://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-06.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-04.svg</image:loc>
+			<image:loc>https://huongdan.online/wp-content/themes/neve/assets/img/starter-content/icon-04.svg</image:loc>
 		</image:image>
 	</url>
 </urlset>
