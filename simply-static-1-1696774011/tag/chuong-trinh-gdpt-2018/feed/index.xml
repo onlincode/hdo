@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CHƯƠNG TRÌNH GDPT 2018 Archives - hướng dẫn</title>
+	<atom:link href="https://huongdan.online/tag/chuong-trinh-gdpt-2018/feed/" rel="self" type="application/rss+xml" />
+	<link>https://huongdan.online/tag/chuong-trinh-gdpt-2018/</link>
+	<description>.online</description>
+	<lastBuildDate>Mon, 22 May 2023 04:42:52 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://huongdan.online/wp-content/uploads/2023/05/cropped-logo-web-32x32.png</url>
+	<title>CHƯƠNG TRÌNH GDPT 2018 Archives - hướng dẫn</title>
+	<link>https://huongdan.online/tag/chuong-trinh-gdpt-2018/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Chương trình giáo dục phổ thông 2018 môn toán lớp 10</title>
+		<link>https://huongdan.online/chuong-trinh-giao-duc-pho-thong-2018-mon-toan-lop-10/</link>
+		
+		<dc:creator><![CDATA[huongdan]]></dc:creator>
+		<pubDate>Sun, 14 May 2023 15:12:55 +0000</pubDate>
+				<category><![CDATA[GIÁO DỤC PHỔ THÔNG]]></category>
+		<category><![CDATA[CHƯƠNG TRÌNH GDPT 2018]]></category>
+		<category><![CDATA[CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG 2018]]></category>
+		<category><![CDATA[CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG LỚP 10]]></category>
+		<category><![CDATA[CHƯƠNG TRÌNH TOÁN LỚP 10]]></category>
+		<guid isPermaLink="false">https://huongdan.online/?p=550</guid>
+
+					<description><![CDATA[<p>I. ĐẠI SỐ VÀ MỘT SỐ YẾU TỐ GIẢI TÍCH 1. Đại số Tập hợp. Mệnh đề Bất phương trình và Hệ bất phương trình bậc nhất 2 ẩn Hàm số và đồ thị Đại số tổ hợp Mệnh đề toán học. Mệnh đề phủ định. Mệnh đề đảo. Mệnh đề tương đương. Điều kiện&#8230;&#160;<a href="https://huongdan.online/chuong-trinh-giao-duc-pho-thong-2018-mon-toan-lop-10/" class="" rel="bookmark">Đọc tiếp &#187;<span class="screen-reader-text">Chương trình giáo dục phổ thông 2018 môn toán lớp 10</span></a></p>
+<p>The post <a rel="nofollow" href="https://huongdan.online/chuong-trinh-giao-duc-pho-thong-2018-mon-toan-lop-10/">Chương trình giáo dục phổ thông 2018 môn toán lớp 10</a> appeared first on <a rel="nofollow" href="https://huongdan.online/">hướng dẫn</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<h2 class="wp-block-heading">I. ĐẠI SỐ VÀ MỘT SỐ YẾU TỐ GIẢI TÍCH</h2>
+
+
+
+<h3 class="wp-block-heading">1. Đại số</h3>
+
+
+
+<div class="tab">
+	<button class="tablinks defaultOpen" onclick="openMyTab(event, 'rqloxac')" >Tập hợp. Mệnh đề</button>
+	<button class="tablinks " onclick="openMyTab(event, 'nlyas')" >Bất phương trình và Hệ bất phương trình bậc nhất 2 ẩn</button>
+	<button class="tablinks " onclick="openMyTab(event, 'jtumbo')" >Hàm số và đồ thị</button>
+	<button class="tablinks " onclick="openMyTab(event, 'ekuypy')" >Đại số tổ hợp</button>
+</div>
+
+<div id="rqloxac" class="tabcontent">
+<p><strong>Mệnh đề toán học. Mệnh đề phủ định. Mệnh đề đảo. Mệnh đề tương đương. Điều kiện cần và đủ</strong>: </p>
+
+
+
+<ul>
+<li>Thiết lập và phát biểu được các mệnh đề toán học, bao gồm: mệnh đề phủ định; mệnh đề đảo;  mệnh đề tương đương; mệnh đề có chứa kí hiệu ∀, ∃; điều kiện cần, điều kiện đủ, điều kiện cần và đủ.</li>
+
+
+
+<li>Xác định được tính đúng/sai của một mệnh đề toán học trong những trường hợp đơn giản.</li>
+</ul>
+
+
+
+<p><strong>Tập hợp. Các phép toán trên tập hợp</strong>: </p>
+
+
+
+<ul>
+<li>Nhận biết được các khái niệm cơ bản về tập hợp (tập con, hai tập hợp bằng nhau, tập rỗng) và biết sử dụng các kí hiệu ⊂,⊃, ∅.</li>
+
+
+
+<li>Thực hiện được phép toán trên các tập hợp (hợp, giao, hiệu của hai tập hợp, phần bù của một tập con) và biết dùng biểu đồ Ven để biểu diễn chúng trong những trường hợp cụ thể.</li>
+
+
+
+<li>Giải quyết được một số vấn đề thực tiễn gắn với phép toán trên tập hợp (ví dụ: những bài toán liên quan đến đếm số phần tử của hợp các tập hợp,…).</li>
+</ul>
+
+</div>
+
+<div id="nlyas" class="tabcontent">
+<p><strong>Bất phương trình, hệ bất phương trình bậc nhất hai ẩn và ứng dụng</strong>:</p>
+
+
+
+<ul>
+<li>Nhận biết được bất phương trình và hệ bất phương trình bậc nhất hai ẩn.</li>
+
+
+
+<li>Biểu diễn được miền nghiệm của bất phương trình và hệ bất phương trình bậc nhất hai ẩn trên mặt phẳng toạ độ.</li>
+
+
+
+<li>Vận dụng được kiến thức về bất phương trình, hệ bất phương trình bậc nhất hai ẩn vào giải quyết bài toán thực tiễn (ví dụ: bài toán tìm cực trị của biểu thức F = ax + by trên một miền đa giác,…).</li>
+</ul>
+
+</div>
+
+<div id="jtumbo" class="tabcontent">
+<p><strong>Khái niệm cơ bản về hàm số và đồ thị</strong>:</p>
+
+
+
+<ul>
+<li>Nhận biết được những mô hình thực tế (dạng bảng, biểu đồ, công thức) dẫn đến khái niệm hàm số.</li>
+
+
+
+<li>Mô tả được các khái niệm cơ bản về hàm số: định nghĩa hàm số, tập xác định, tập giá trị, hàm số đồng biến, hàm số nghịch biến, đồ thị của hàm số.</li>
+
+
+
+<li>Mô tả được các đặc trưng hình học của đồ thị hàm số đồng biến, hàm số nghịch biến.</li>
+
+
+
+<li>Vận dụng được kiến thức của hàm số vào giải quyết bài toán thực tiễn (ví dụ: xây dựng hàm số bậc nhất trên những khoảng khác nhau để tính số tiền y (phải trả) theo số phút gọi x đối với một gói cước điện thoại,…).</li>
+</ul>
+
+
+
+<p><strong>Hàm số bậc hai, đồ thị hàm số bậc hai và ứng dụng</strong>:</p>
+
+
+
+<ul>
+<li>Thiết lập được bảng giá trị của hàm số bậc hai.</li>
+
+
+
+<li>Vẽ được Parabola (parabol) là đồ thị hàm số bậc hai.</li>
+
+
+
+<li>Nhận biết được các tính chất cơ bản của Parabola như đỉnh, trục đối xứng.</li>
+
+
+
+<li>Nhận biết và giải thích được các tính chất của hàm số bậc hai thông qua đồ thị.</li>
+
+
+
+<li>Vận dụng được kiến thức về hàm số bậc hai và đồ thị vào giải quyết bài toán thực tiễn (ví dụ: xác định độ cao của cầu, cổng có hình dạng Parabola,…).</li>
+</ul>
+
+
+
+<p><strong>Dấu của tam thức bậc hai. Bất phương trình bậc hai một ẩn</strong>:</p>
+
+
+
+<ul>
+<li>Giải thích được định lí về dấu của tam thức bậc hai từ việc quan sát đồ thị của hàm bậc hai.</li>
+
+
+
+<li>Giải được bất phương trình bậc hai.</li>
+
+
+
+<li>Vận dụng được bất phương trình bậc hai một ẩn vào giải quyết bài toán thực tiễn (ví dụ: xác định chiều cao tối đa để xe có thể qua hầm có hình dạng Parabola,…).</li>
+</ul>
+
+
+
+<p><strong>Phương trình quy về phương trình bậc hai</strong>: </p>
+
+
+
+<p>Giải được phương trình chứa căn thức có dạng: </p>
+
+
+<div class="wp-block-image" bis_skin_checked="1">
+<figure class="aligncenter size-full"><img decoding="async" width="512" height="38" src="https://huongdan.online/wp-content/uploads/2023/05/image-13.png" alt="" class="wp-image-559" data-opt-lazy-loaded="false" srcset="https://huongdan.online/wp-content/uploads/2023/05/image-13.png 512w, https://huongdan.online/wp-content/uploads/2023/05/image-13-300x22.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+</div>
+
+<div id="ekuypy" class="tabcontent">
+<p><strong>Các quy tắc đếm (quy tắc cộng, quy tắc nhân, chỉnh hợp, hoán vị, tổ hợp) và ứng dụng trong thực tiễn</strong>:</p>
+
+
+
+<ul>
+<li>Vận dụng được quy tắc cộng và quy tắc nhân trong một số tình huống đơn giản (ví dụ: đếm số khả năng xuất hiện mặt sấp/ngửa khi tung một số đồng xu,…).</li>
+
+
+
+<li>Vận dụng được sơ đồ hình cây trong các bài toán đếm đơn giản các đối tượng trong Toán học, trong các môn học khác cũng như trong thực tiễn (ví dụ: đếm số hợp tử tạo thành trong Sinh học, hoặc đếm số trận đấu trong một giải thể thao,…).</li>
+
+
+
+<li>Tính được số các hoán vị, chỉnh hợp, tổ hợp.</li>
+
+
+
+<li>Tính được số các hoán vị, chỉnh hợp, tổ hợp bằng máy tính cầm tay.</li>
+</ul>
+
+
+
+<p><strong>Nhị thức Newton với số mũ không quá 5</strong>:</p>
+
+
+
+<p>Khai triển được nhị thức Newton (a + b)<sup>n</sup> với số mũ thấp (n = 4 hoặc n = 5) bằng cách vận dụng tổ hợp</p>
+
+</div>
+
+
+
+<h3 class="wp-block-heading">2. Thực hành với phần mềm toán học</h3>
+
+
+
+<p><strong>Thực hành trong phòng máy tính với phần mềm toán học (nếu nhà trường có điều kiện thực hiện)</strong>:</p>
+
+
+
+<ul>
+<li>Sử dụng phần mềm để hỗ trợ việc học các kiến thức đại số.</li>
+
+
+
+<li>Thực hành sử dụng phần mềm để vẽ đồ thị của hàm số bậc hai; sử dụng đồ thị để tạo các hình ảnh hoa văn, hình khối.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">II. HÌNH HỌC VÀ ĐO LƯỜNG</h2>
+
+
+
+<h3 class="wp-block-heading">1. Hình học phẳng</h3>
+
+
+
+<div class="tab">
+	<button class="tablinks defaultOpen" onclick="openMyTab(event, 'oxftcfj')" >Hệ thức lượng trong tam giác. Vectơ</button>
+	<button class="tablinks " onclick="openMyTab(event, 'aitjg')" >Phương pháp toạ độ trong mặt phẳng</button>
+</div>
+
+<div id="oxftcfj" class="tabcontent">
+<p><strong>Hệ thức lượng trong tam giác. Định lí côsin. Định lí sin. Công thức tính diện tích tam giác. Giải tam giác</strong>:</p>
+
+
+
+<ul>
+<li>Nhận biết được giá trị lượng giác của một góc từ 0<sup>o</sup> đến 180<sup>o</sup>.</li>
+
+
+
+<li>Tính được giá trị lượng giác (đúng hoặc gần đúng) của một góc từ 0<sup>o</sup> đến 180<sup>o</sup> bằng máy tính cầm tay.</li>
+
+
+
+<li>Giải thích được hệ thức liên hệ giữa giá trị lượng giác của các góc phụ nhau, bù nhau.</li>
+
+
+
+<li>Giải thích được các hệ thức lượng cơ bản trong tam giác: định lí côsin, định lí sin, công thức tính diện tích tam giác.</li>
+
+
+
+<li>Mô tả được cách giải tam giác và vận dụng được vào việc giải một số bài toán có nội dung thực tiễn (ví dụ: xác định khoảng cách giữa hai địa điểm khi gặp vật cản, xác định chiều cao của vật khi không thể đo trực tiếp,…)</li>
+</ul>
+
+
+
+<p><strong>Vectơ, các phép toán (tổng và hiệu hai vectơ, tích của một số với vectơ, tích vô hướng của hai vectơ) và một số ứng dụng trong Vật lí</strong>:</p>
+
+
+
+<ul>
+<li>Nhận biết được khái niệm vectơ, vectơ bằng nhau, vectơ-không.</li>
+
+
+
+<li>Biểu thị được một số đại lượng trong thực tiễn bằng vectơ.</li>
+
+
+
+<li>Thực hiện được các phép toán trên vectơ (tổng và hiệu hai vectơ, tích của một số với vectơ, tích vô hướng của hai vectơ) và mô tả được những tính chất hình học (ba điểm thẳng hàng, trung điểm của đoạn thẳng, trọng tâm của tam giác,…) bằng vectơ.</li>
+
+
+
+<li>Sử dụng được vectơ và các phép toán trên vectơ để giải thích một số hiện tượng có liên quan đến Vật lí và Hoá học (ví dụ: những vấn đề liên quan đến lực, đến chuyển động,…).</li>
+
+
+
+<li>Vận dụng được kiến thức về vectơ để giải một số bài toán hình học và một số bài toán liên quan đến thực tiễn (ví dụ: xác định lực tác dụng lên vật,…).</li>
+</ul>
+
+</div>
+
+<div id="aitjg" class="tabcontent">
+<p><strong>Toạ độ của vectơ đối với một hệ trục toạ độ. Biểu thức toạ độ của các phép toán vectơ. Ứng dụng vào bài toán giải tam giác</strong>.</p>
+
+
+
+<ul>
+<li>Nhận biết được toạ độ của vectơ đối với một hệ trục toạ độ.</li>
+
+
+
+<li>Tìm được toạ độ của một vectơ, độ dài của một vectơ khi biết toạ độ hai đầu mút của nó.</li>
+
+
+
+<li>Sử dụng được biểu thức toạ độ của các phép toán vectơ trong tính toán.</li>
+
+
+
+<li>Vận dụng được phương pháp toạ độ vào bài toán giải tam giác.</li>
+
+
+
+<li>Vận dụng được kiến thức về toạ độ của vectơ để giải một số bài toán liên quan đến thực tiễn (ví dụ: vị trí của vật trên mặt phẳng toạ độ,…).</li>
+</ul>
+
+
+
+<p><strong>Đường thẳng trong mặt phẳng toạ độ. Phương trình tổng quát và phương trình tham số của đường thẳng. Khoảng cách từ một điểm đến một đường thẳng</strong>:</p>
+
+
+
+<ul>
+<li>Mô tả được phương trình tổng quát và phương trình tham số của đường thẳng trong mặt phẳng toạ độ.</li>
+
+
+
+<li>Thiết lập được phương trình của đường thẳng trong mặt phẳng khi biết: một điểm và một vectơ pháp tuyến; biết một điểm và một vectơ chỉ phương; biết hai điểm.</li>
+
+
+
+<li>Nhận biết được hai đường thẳng cắt nhau, song song, trùng nhau, vuông góc với nhau bằng phương pháp toạ độ.</li>
+
+
+
+<li>Thiết lập được công thức tính góc giữa hai đường thẳng.</li>
+
+
+
+<li>Tính được khoảng cách từ một điểm đến một đường thẳng bằng phương pháp toạ độ.</li>
+
+
+
+<li>Giải thích được mối liên hệ giữa đồ thị hàm số bậc nhất và đường thẳng trong mặt phẳng toạ độ.</li>
+
+
+
+<li>Vận dụng được kiến thức về phương trình đường thẳng để giải một số bài toán có liên quan đến thực tiễn.</li>
+</ul>
+
+
+
+<p><strong>Đường tròn trong mặt phẳng toạ độ và ứng dụng</strong>:</p>
+
+
+
+<ul>
+<li>Thiết lập được phương trình đường tròn khi biết toạ độ tâm và bán kính; biết toạ độ ba điểm mà đường tròn đi qua; xác định được tâm và bán kính đường tròn khi biết phương trình của đường tròn.</li>
+
+
+
+<li>Thiết lập được phương trình tiếp tuyến của đường tròn khi biết toạ độ của tiếp điểm.</li>
+
+
+
+<li>Vận dụng được kiến thức về phương trình đường tròn để giải một số bài toán liên quan đến thực tiễn (ví dụ: bài toán về chuyển động tròn trong Vật lí,…).</li>
+</ul>
+
+
+
+<p><strong>Ba đường conic trong mặt phẳng toạ độ và ứng dụng</strong>:</p>
+
+
+
+<ul>
+<li>Nhận biết được ba đường conic bằng hình học.</li>
+
+
+
+<li>Nhận biết được phương trình chính tắc của ba đường conic trong mặt phẳng toạ độ.</li>
+
+
+
+<li>Giải quyết được một số vấn đề thực tiễn gắn với ba đường conic (ví dụ: giải thích một số hiện tượng trong Quang học,…).</li>
+</ul>
+
+</div>
+
+
+
+<h3 class="wp-block-heading">2. Thực hành với phần mềm toán học</h3>
+
+
+
+<p><strong>Thực hành trong phòng máy tính với phần mềm toán học (nếu nhà trường có điều kiện thực hiện)</strong></p>
+
+
+
+<ul>
+<li>Sử dụng phần mềm để hỗ trợ việc học các kiến thức hình học.</li>
+
+
+
+<li>Thực hành sử dụng phần mềm để biểu thị điểm, vectơ, các phép toán vectơ trong hệ trục toạ độ Oxy.</li>
+
+
+
+<li>Thực hành sử dụng phần mềm để vẽ đường thẳng, đường tròn, các đường conic trên mặt phẳng toạ độ; xem xét sự thay đổi hình dạng của các hình khi thay đổi các yếu tố trong phương trình xác định chúng.</li>
+
+
+
+<li>Thực hành sử dụng phần mềm để thiết kế đồ hoạ liên quan đến đường tròn và các đường conic.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">III. THỐNG KÊ VÀ XÁC SUẤT</h2>
+
+
+
+<h3 class="wp-block-heading">1. Thống kê</h3>
+
+
+
+<div class="tab">
+	<button class="tablinks defaultOpen" onclick="openMyTab(event, 'xdx')" >Số gần đúng</button>
+	<button class="tablinks " onclick="openMyTab(event, 'kzzvqk')" >Thu thập và tổ chức dữ liệu</button>
+	<button class="tablinks " onclick="openMyTab(event, 'wua')" >Phân tích và xử lí dữ liệu</button>
+</div>
+
+<div id="xdx" class="tabcontent">
+<p><strong>Số gần đúng. Sai số</strong>:</p>
+
+
+
+<ul>
+<li>Hiểu được khái niệm số gần đúng, sai số tuyệt đối.</li>
+
+
+
+<li>Xác định được số gần đúng của một số với độ chính xác cho trước.</li>
+
+
+
+<li>Xác định được sai số tương đối của số gần đúng.</li>
+
+
+
+<li>Xác định được số quy tròn của số gần đúng với độ chính xác cho trước.</li>
+
+
+
+<li>Biết sử dụng máy tính cầm tay để tính toán với các số gần đúng</li>
+</ul>
+
+</div>
+
+<div id="kzzvqk" class="tabcontent">
+<p><strong>Mô tả và biểu diễn dữ liệu trên các bảng, biểu đồ:</strong></p>
+
+
+
+<p>Phát hiện và lí giải được số liệu không chính xác dựa trên mối liên hệ toán học đơn giản giữa các số liệu đã được biểu diễn trong nhiều ví dụ</p>
+
+</div>
+
+<div id="wua" class="tabcontent">
+<p><strong>Các số đặc trưng đo xu thế trung tâm cho mẫu số liệu không ghép nhóm</strong>:</p>
+
+
+
+<ul>
+<li>Tính được số đặc trưng đo xu thế trung tâm cho mẫu số liệu không ghép nhóm: số trung bình cộng (hay số trung bình), trung vị (median), tứ phân vị (quartiles), mốt (mode).</li>
+
+
+
+<li>Giải thích được ý nghĩa và vai trò của các số đặc trưng nói trên của mẫu số liệu trong thực tiễn.</li>
+
+
+
+<li>Chỉ ra được những kết luận nhờ ý nghĩa của số đặc trưng nói trên của mẫu số liệu trong trường hợp đơn giản.</li>
+</ul>
+
+
+
+<p><strong>Các số đặc trưng đo mức độ phân tán cho mẫu số liệu không ghép nhóm</strong>:</p>
+
+
+
+<ul>
+<li>Tính được số đặc trưng đo mức độ phân tán cho mẫu số liệu không ghép nhóm: khoảng biến thiên, khoảng tứ phân vị, phương sai, độ lệch chuẩn.</li>
+
+
+
+<li>Giải thích được ý nghĩa và vai trò của các số đặc trưng nói trên của mẫu số liệu trong thực tiễn.</li>
+
+
+
+<li>Chỉ ra được những kết luận nhờ ý nghĩa của số đặc trưng nói trên của mẫu số liệu trong trường hợp đơn giản.</li>
+
+
+
+<li>Nhận biết được mối liên hệ giữa thống kê với những kiến thức của các môn học trong Chương trình lớp 10 và trong thực tiễn</li>
+</ul>
+
+</div>
+
+
+
+<h3 class="wp-block-heading">2. Xác suất</h3>
+
+
+
+<div class="tab">
+	<button class="tablinks defaultOpen" onclick="openMyTab(event, 'iczlzabq')" >Khái niệm về xác suất</button>
+	<button class="tablinks " onclick="openMyTab(event, 'uxbluo')" >Các quy tắc tính xác suất</button>
+</div>
+
+<div id="iczlzabq" class="tabcontent">
+<p><strong>Một số khái niệm về xác suất cổ điển:</strong></p>
+
+
+
+<ul>
+<li>Nhận biết được một số khái niệm về xác suất cổ điển: phép thử ngẫu nhiên; không gian mẫu; biến cố (biến cố là tập con của không gian mẫu); biến cố đối; định nghĩa cổ điển của xác suất; nguyên lí xác suất bé.</li>
+
+
+
+<li>Mô tả được không gian mẫu, biến cố trong một số thí nghiệm đơn giản (ví dụ: tung đồng xu hai lần, tung đồng xu ba lần, tung xúc xắc hai lần).</li>
+</ul>
+
+</div>
+
+<div id="uxbluo" class="tabcontent">
+<p><strong>Thực hành tính toán xác suất trong những trường hợp đơn giản</strong>:</p>
+
+
+
+<ul>
+<li>Tính được xác suất của biến cố trong một số bài toán đơn giản bằng phương pháp tổ hợp (trường hợp xác suất phân bố đều).</li>
+
+
+
+<li>Tính được xác suất trong một số thí nghiệm lặp bằng cách sử dụng sơ đồ hình cây (ví dụ: tung xúc xắc hai lần, tính xác suất để tổng số chấm xuất hiện trong hai lần tung bằng 7)</li>
+</ul>
+
+
+
+<p><strong>Các quy tắc tính xác suất</strong>:</p>
+
+
+
+<ul>
+<li>Mô tả được các tính chất cơ bản của xác suất.</li>
+
+
+
+<li>Tính được xác suất của biến cố đối</li>
+</ul>
+
+</div>
+
+
+
+<h3 class="wp-block-heading">3. Thực hành với phần mềm toán học</h3>
+
+
+
+<p><strong>Thực hành trong phòng máy tính với phần mềm toán học (nếu nhà trường có điều kiện thực hiện)</strong>:</p>
+
+
+
+<ul>
+<li>Sử dụng phần mềm để hỗ trợ việc học các kiến thức thống kê và xác suất.</li>
+
+
+
+<li>Thực hành sử dụng phần mềm để tính được số đặc trưng đo xu thế trung tâm và đo mức độ phân tán cho mẫu số liệu không ghép nhóm.</li>
+
+
+
+<li>Thực hành sử dụng phần mềm để tính xác suất theo định nghĩa cổ điển.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">IV. HOẠT ĐỘNG THỰC HÀNH VÀ TRẢI NGHIỆM</h2>
+
+
+
+<p>Nhà trường tổ chức cho học sinh một số hoạt động sau và có thể bổ sung các hoạt động khác tuỳ vào điều kiện cụ thể.</p>
+
+
+
+<div class="tab">
+	<button class="tablinks defaultOpen" onclick="openMyTab(event, '1684119906382')" >Hoạt động 1</button>
+	<button class="tablinks " onclick="openMyTab(event, '1684119906383')" >Hoạt động 2</button>
+	<button class="tablinks " onclick="openMyTab(event, '1684119906384')" >Hoạt động 3</button>
+	<button class="tablinks " onclick="openMyTab(event, '1684119906385')" >Hoạt động 4</button>
+</div>
+
+<div id="1684119906382" class="tabcontent">
+<p>Hoạt động 1: Thực hành ứng dụng các kiến thức toán học vào thực tiễn và các chủ đề liên môn, chẳng hạn:</p>
+
+
+
+<ul>
+<li>Thực hành tổng hợp các hoạt động liên quan đến tính toán, đo lường, ước lượng và tạo lập hình, như: tính tiền khi đi taxi theo các khung giá: dưới 1km, từ 1 – 10km, từ 10 – 31km, trên 31km,…; đo đạc một vài yếu tố của vật thể mà chúng ta không thể dùng dụng cụ đo đạc để đo trực tiếp; tính chiều cao của công trình kiến trúc dạng Parabola (như cầu Nhật Tân, cầu Trường Tiền, cầu Mỹ Thuận,…); giải thích các hiện tượng, quy luật trong Vật lí; thực hành vẽ, cắt hình có dạng Ellipse (elip).</li>
+
+
+
+<li>Thực hành mô tả và biểu diễn dữ liệu trên các bảng, biểu đồ.</li>
+</ul>
+
+</div>
+
+<div id="1684119906383" class="tabcontent">
+<p>Hoạt động 2: Tìm hiểu một số kiến thức về tài chính, như:</p>
+
+
+
+<ul>
+<li>Hiểu sự khác biệt giữa tiết kiệm và đầu tư.</li>
+
+
+
+<li>Thực hành thiết lập kế hoạch đầu tư cá nhân để đạt được tỉ lệ tăng trưởng như mong đợi</li>
+</ul>
+
+</div>
+
+<div id="1684119906384" class="tabcontent">
+<p>Hoạt động 3: Tổ chức các hoạt động ngoài giờ chính khoá như các câu lạc bộ toán học, dự án học tập, trò chơi học toán, cuộc thi về Toán, chẳng hạn: thi tìm hiểu lịch sử toán học, tổ chức sinh hoạt câu lạc bộ toán học theo các chủ đề (tìm hiểu các ứng dụng của hàm số bậc hai, vectơ trong thực tiễn,…).</p>
+
+</div>
+
+<div id="1684119906385" class="tabcontent">
+<p>Hoạt động 4 (nếu nhà trường có điều kiện thực hiện): Tổ chức giao lưu học sinh giỏi trong trường và trường bạn, với các chuyên gia nhằm hiểu nhiều hơn về vai trò của Toán học trong thực tiễn và trong các ngành nghề.</p>
+</div>
+
+
+
+<h2 class="wp-block-heading">NỘI DUNG CHUYÊN ĐỀ LỚP 10: ỨNG DỤNG TOÁN HỌC VÀO GIẢI QUYẾT VẤN ĐỀ LIÊN MÔN VÀ THỰC TIỄN</h2>
+
+
+
+<div class="tab">
+  <button class="tablinks defaultOpen" onclick="openMyTab(event, 'Quynap')">Quy nạp</button>
+  <button class="tablinks" onclick="openMyTab(event, 'Nhithuc')">Nhị thức Newton</button>
+  <button class="tablinks" onclick="openMyTab(event, 'He3an')">Hệ phương trình 3 ẩn</button>
+  <button class="tablinks" onclick="openMyTab(event, 'Vandung')">Vận dụng hệ phương trình 3 ẩn</button>
+  <button class="tablinks" onclick="openMyTab(event, 'Conic')">3 đường Conic</button>
+</div>
+
+
+<div id="Quynap" class="tabcontent">
+<ul>
+<li>Mô tả được các bước chứng minh tính đúng đắn của một mệnh đề toán học bằng phương pháp quy nạp.</li>
+
+
+
+<li>Chứng minh được tính đúng đắn của một mệnh đề toán học bằng phương pháp quy nạp toán học.</li>
+
+
+
+<li>Vận dụng được phương pháp quy nạp toán học để giải quyết một số vấn đề thực tiễn.</li>
+</ul>
+</div>
+
+
+
+<div id="Nhithuc" class="tabcontent">
+<ul>
+<li>Khai triển được nhị thức Newton (a + b)<sup>n</sup> bằng cách vận dụng tổ hợp.</li>
+
+
+
+<li>Xác định được các hệ số trong nhị thức Newton thông qua tam giác Pascal.</li>
+
+
+
+<li>Xác định được hệ số của x<sup>k</sup> trong khai triển (ax + b)<sup>n</sup> thành đa thức.</li>
+</ul>
+</div>
+
+
+
+<div id="He3an" class="tabcontent">
+<ul>
+<li>Nhận biết được khái niệm nghiệm của hệ phương trình bậc nhất ba ẩn.</li>
+
+
+
+<li>Giải được hệ phương trình bậc nhất ba ẩn bằng phương pháp Gauss.</li>
+
+
+
+<li>Tìm được nghiệm hệ phương trình bậc nhất ba ẩn bằng máy tính cầm tay.</li>
+</ul>
+</div>
+
+
+
+<div id="Vandung" class="tabcontent">
+<ul>
+<li>Vận dụng được cách giải hệ phương trình bậc nhất ba ẩn vào giải quyết một số bài toán Vật lí (tính điện trở, tính cường độ dòng điện trong dòng điện không đổi,…), Hoá học (cân bằng phản ứng,…), Sinh học (bài tập nguyên phân, giảm phân,…).</li>
+
+
+
+<li>Vận dụng cách giải hệ phương trình bậc nhất ba ẩn để giải quyết một số vấn đề thực tiễn cuộc sống (ví dụ: bài toán lập kế hoạch sản xuất, mô hình cân bằng thị trường, phân bố vốn đầu tư,…).</li>
+</ul>
+</div>
+
+
+
+<div id="Conic" class="tabcontent">
+<ul>
+<li>Xác định được các yếu tố đặc trưng của đường conic (đỉnh, tiêu điểm, tiêu cự, độ dài trục, tâm sai, đường chuẩn, bán kính qua tiêu) khi biết phương trình chính tắc của đường conic đó.</li>
+
+
+
+<li>Nhận biết được đường conic như là giao của mặt phẳng với mặt nón.</li>
+
+
+
+<li>Giải quyết được một số vấn đề thực tiễn gắn với ba đường conic (ví dụ: giải thích một số hiện tượng trong Quang học, xác định quỹ đạo chuyển động của các hành tinh trong hệ Mặt Trời,…).</li>
+</ul>
+</div>
+
+<script>
+function openMyTab(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+function openMyTab(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementsByClassName("defaultOpen")[0].click();
+</script>
+<p>The post <a rel="nofollow" href="https://huongdan.online/chuong-trinh-giao-duc-pho-thong-2018-mon-toan-lop-10/">Chương trình giáo dục phổ thông 2018 môn toán lớp 10</a> appeared first on <a rel="nofollow" href="https://huongdan.online/">hướng dẫn</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
