@@ -2,7 +2,7 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://huongdan.online/post-sitemap.xml</loc>
-		<lastmod>2024-04-07T04:29:09+00:00</lastmod>
+		<lastmod>2024-04-07T16:25:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://huongdan.online/page-sitemap.xml</loc>
@@ -14,11 +14,11 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://huongdan.online/category-sitemap.xml</loc>
-		<lastmod>2024-04-07T04:29:09+00:00</lastmod>
+		<lastmod>2024-04-07T16:25:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://huongdan.online/post_tag-sitemap.xml</loc>
-		<lastmod>2024-04-07T04:29:09+00:00</lastmod>
+		<lastmod>2024-04-07T16:25:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://huongdan.online/product_cat-sitemap.xml</loc>
