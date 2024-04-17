@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://huongdan.online/</loc>
-		<lastmod>2024-04-10T14:32:18+00:00</lastmod>
+		<lastmod>2024-04-17T10:49:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://huongdan.online/de-thi-tuyen-sinh-vao-10-mon-anh-thanh-pho-ho-chi-minh-nam-2019/</loc>
@@ -132,8 +132,18 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://huongdan.online/tuyen-tap-de-thi-tuyen-sinh-lop-10-mon-anh-tphcm-pdf-co-dap-an-2023/</loc>
+		<lastmod>2024-04-10T14:32:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://huongdan.online/wp-content/uploads/2023/05/site-banner.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://huongdan.online/wp-content/uploads/2023/05/image.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://huongdan.online/cong-cu-tinh-diem-xet-tuyen-dai-hoc-bach-khoa-tp-hcm-hcmut/</loc>
-		<lastmod>2024-04-07T04:29:09+00:00</lastmod>
+		<lastmod>2024-04-17T10:49:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://huongdan.online/wp-content/uploads/2023/09/image.png</image:loc>
 		</image:image>
@@ -148,16 +158,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://huongdan.online/wp-content/uploads/2023/05/image-17.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://huongdan.online/tuyen-tap-de-thi-tuyen-sinh-lop-10-mon-anh-tphcm-pdf-co-dap-an-2023/</loc>
-		<lastmod>2024-04-10T14:32:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://huongdan.online/wp-content/uploads/2023/05/site-banner.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://huongdan.online/wp-content/uploads/2023/05/image.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
